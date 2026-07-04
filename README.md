@@ -154,7 +154,7 @@ Average ROC-AUC:
 This notebook automatically generates publication-quality figures including:
 
 * ROC Curve
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](Images/ROC Curve -Default Risk Ranking.png)
 * Precision-Recall Curve
 * Confusion Matrix
 * Feature Importance
