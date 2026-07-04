@@ -115,15 +115,8 @@ The notebook follows a complete end-to-end machine learning workflow:
 
 The project includes comprehensive evaluation using:
 
-* ROC-AUC Score
-* Cross Validation
-* Confusion Matrix
-* ROC Curve
-* Precision-Recall Curve
-* Feature Importance
-* SHAP Summary Plot
-* SHAP Feature Importance
-* Classification Report
+## Model Performance
+![ROC Curve](https://github.com/aniruddhapal/Loan-Default-Prediction-Production-version/blob/main/Images/ROC%20Curve%20-Default%20Risk%20Ranking.png)
 
 These evaluation techniques provide both predictive performance and model interpretability.
 
