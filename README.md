@@ -1,3 +1,12 @@
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+
+![LightGBM](https://img.shields.io/badge/Model-LightGBM-green)
+
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+
 # 🏦 Loan Default Prediction using Machine Learning
 
 > **A production-quality end-to-end machine learning project that predicts loan default risk using LightGBM, feature engineering, cross-validation, and explainable AI (SHAP).**
