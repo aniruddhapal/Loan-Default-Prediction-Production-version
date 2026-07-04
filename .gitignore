@@ -1,0 +1,61 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.so
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Virtual Environments
+
+.venv/
+venv/
+env/
+
+# VS Code
+
+.vscode/
+
+# PyCharm
+
+.idea/
+
+# macOS
+
+.DS_Store
+
+# Windows
+
+Thumbs.db
+
+# Logs
+
+*.log
+
+# Temporary files
+
+*.tmp
+
+# Python cache
+
+.pytest_cache/
+
+# Build
+
+build/
+dist/
+
+# Environment variables
+
+.env
+
+# Model files (optional)
+
+*.pkl
+*.joblib
+
+# Kaggle API credentials
+
+kaggle.json
