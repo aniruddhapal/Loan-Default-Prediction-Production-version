@@ -115,8 +115,15 @@ The notebook follows a complete end-to-end machine learning workflow:
 
 The project includes comprehensive evaluation using:
 
-## Model Performance
-![ROC Curve](https://github.com/aniruddhapal/Loan-Default-Prediction-Production-version/blob/main/Images/ROC%20Curve%20-Default%20Risk%20Ranking.png)
+ROC-AUC Score
+Cross Validation
+Confusion Matrix
+ROC Curve
+Precision-Recall Curve
+Feature Importance
+SHAP Summary Plot
+SHAP Feature Importance
+Classification Report
 
 These evaluation techniques provide both predictive performance and model interpretability.
 
@@ -146,13 +153,14 @@ Average ROC-AUC:
 
 This notebook automatically generates publication-quality figures including:
 
-* ROC Curve
-![ROC Curve](Images/ROC Curve -Default Risk Ranking.png)
-* Precision-Recall Curve
-* Confusion Matrix
-* Feature Importance
-* SHAP Summary Plot
-* SHAP Feature Importance
+## Model Performance
+![ROC Curve](https://github.com/aniruddhapal/Loan-Default-Prediction-Production-version/blob/main/Images/ROC%20Curve%20-Default%20Risk%20Ranking.png)
+## Top Feature Importance
+![Feature Importance](https://github.com/aniruddhapal/Loan-Default-Prediction-Production-version/blob/main/Images/Top%2030%20Feature%20Importances-LightGBM.png)
+## Explainable AI (SHAP)
+![SHAP Summary](https://github.com/aniruddhapal/Loan-Default-Prediction-Production-version/blob/main/Images/SHAP%20Summery%20Plot-Default%20Risk%20Drivers.png)
+## Confusion Matrix
+![Confusion Matrix](https://github.com/aniruddhapal/Loan-Default-Prediction-Production-version/blob/main/Images/Confusion%20Matrix%20-%20Out-of-Fold%20Validation.png)
 
 These images can be found in the **images/** directory after executing the notebook.
 
